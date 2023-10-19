@@ -1,0 +1,25 @@
+<annotation>
+  <folder/>
+  <filename>00598.jpg</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>256</height>
+    <width>256</width>
+    <depth>3</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>Ship</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>66.54545454545453</xmin>
+      <ymin>103.86363636363636</ymin>
+      <xmax>87.45454545454544</xmax>
+      <ymax>117.49999999999999</ymax>
+    </bndbox>
+  </object>
+</annotation>

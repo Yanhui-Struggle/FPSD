@@ -1,0 +1,37 @@
+<annotation>
+  <folder/>
+  <filename>00774.jpg</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>256</height>
+    <width>256</width>
+    <depth>3</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>Ship</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>43.81818181818181</xmin>
+      <ymin>107.04545454545453</ymin>
+      <xmax>53.36363636363636</xmax>
+      <ymax>122.95454545454544</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Ship</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>36.772727272727266</xmin>
+      <ymin>93.4090909090909</ymin>
+      <xmax>45.18181818181817</xmax>
+      <ymax>104.54545454545453</ymax>
+    </bndbox>
+  </object>
+</annotation>
