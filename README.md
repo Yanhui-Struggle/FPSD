@@ -10,3 +10,9 @@ Z. Yang, P. Zhang, N. Wang and T. Liu, "A Lightweight Theory-Driven Network and 
 
 https://ieeexplore.ieee.org/document/10400774
 
+
+如果下载速度慢，可以用以下百度网盘链接（If the download speed is slow, you can utilize the provided Baidu web disk link.）
+
+
+链接：https://pan.baidu.com/s/1d9RT5cByy4XPxxqA3zaNbQ 
+提取码：kw2q 
